@@ -1,10 +1,12 @@
 <resources>
-    <string name="app_name">EatIt</string>
+    <string name="app_name">Eat It</string>
     <string name="slogan">No matter where you are, Whethear at home, office or on the beach, We will find you and feed you!</string>
 
-    <string name="sign_up">sign_up</string>
+    <string name="sign_up">sign Up</string>
     <string name="sign_in">Sign In</string>
 
     <string name="mobile_number">Mobile Number</string>
     <string name="password">Password</string>
+
+    <string name="name">Name</string>
 </resources>
