@@ -23,7 +23,7 @@
 
         <TextView
             android:gravity="center"
-            android:id="@+id/txtSlogan"
+            android:id="@+id/tv_Slogan"
             android:text="@string/slogan"
             android:textColor="@android:color/white"
             android:layout_width="200dp"
@@ -38,7 +38,7 @@
         android:weightSum="2">
 
         <Button
-            android:id="@+id/btnSignUp"
+            android:id="@+id/btn_SignUp"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="8dp"
@@ -48,7 +48,7 @@
             android:textColor="@android:color/white" />
 
         <Button
-            android:id="@+id/btnSingIn"
+            android:id="@+id/btn_SignIn"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="8dp"
