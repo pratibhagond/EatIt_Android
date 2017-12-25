@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EatIt</string>
+    <string name="slogan">No matter where you are, Whethear at home, office or on the beach, We will find you and feed you!</string>
+
+    <string name="sign_up">sign_up</string>
+    <string name="sign_in">Sign In</string>
 </resources>
